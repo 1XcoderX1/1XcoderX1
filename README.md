@@ -5,7 +5,31 @@
 
 ### Connect with me:
 
-[linkedin]
+[<img align="left" alt="1XcoderX1 | Linkedin" width="22px" src="https://github.com/1XcoderX1/1XcoderX1/blob/main/assets/logos/linkedin.png" />] [linkedin]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br />
 <br />
