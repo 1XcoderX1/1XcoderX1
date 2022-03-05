@@ -7,7 +7,7 @@
 
 [<img align="left" alt="1XcoderX1 | Linkedin" width="22px" src="https://github.com/1XcoderX1/1XcoderX1/blob/main/assets/logos/linkedin.png" />] [linkedin]
 
-
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 
 
